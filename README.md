@@ -1,6 +1,6 @@
 # Live Project URL
 
-https://festive-clarke-929017.netlify.app/service
+https://festive-clarke-929017.netlify.app/
 
 # Getting Started with Create React App
 
